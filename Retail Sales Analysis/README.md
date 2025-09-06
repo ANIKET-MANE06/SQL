@@ -1,5 +1,7 @@
 **Retail Sales Analysis SQL Project**
+
 **Project Overview**
+
 **Introduction**
  	
    I worked on this project to apply my SQL skills in a practical way by exploring and analyzing retail sales data. I created a retail sales database, carried out exploratory data analysis (EDA), and wrote SQL queries to answer real business-related questions. Through this process, I was able to practice data cleaning, analysis, and problem-solving using SQL. This project helped me strengthen my foundation in SQL and gain hands-on experience with the kind of tasks a data analyst typically handles.
